@@ -1,6 +1,6 @@
 # Houdini bakes attributes to PNG files
 
-It bakes P and Cd attributes to position.png and color.png
+It bakes P and Cd attributes to PNG files and then imports to three.js.
 
 ![](previews/screen-preview-01.jpg)
 ![](previews/screen-preview-02.jpg)
