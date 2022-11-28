@@ -4,7 +4,10 @@
 Develop and tested on Houdini Indie 19.5
 
 ## For what?
-I need a pipeline to bake P and Cd attributes to PNG files and then import them to three.js for websites use.
+I need a pipeline to bake P (positions) and Cd (colors) attributes to PNG files and then import them to three.js for websites use. This Houdini file can converts mash to particles and bakes the P to `p_16bit.png` and Cd to `color.png`
+
+![A samlpe of p_8bit.png](png-export/box/p_8bit.png)
+![A samlpe of color.png](png-export/box/color.png)
 
 ## Houdini screens preview
 ![](previews/screen-preview-01.jpg)
